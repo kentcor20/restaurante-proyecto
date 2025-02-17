@@ -4,7 +4,7 @@ Foodie. - Supper delicious Burger in town!
 
 #---------- HEADER ----------#
 
-Foodie.
+Foodie
 
 Home
 About Us
